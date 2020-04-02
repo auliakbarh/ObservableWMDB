@@ -1,0 +1,12 @@
+{
+  "fontSize": {
+    "tabBar": 9,
+    "mgmMenu": 9,
+    "mini": 10,
+    "small": 12,
+    "medium": 14,
+    "large": 16,
+    "xlarge": 18,
+    "xxlarge": 24
+  }
+}
